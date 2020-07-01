@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlight{
+    color: orangered;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    background-position: center;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#text-sec{
+    padding-top: 100px;
+}
+.top-section{
+    background-image: url(img/header-bg.png);
+    width: 100%;
+}
+.biography-section{
+    background-image: url(img/biography-bg.png);
+    height: 500px;
+    width: 100%;
+}
+.Biography-para{
+    padding-top: 200px;
+}
+.work-album{
+    width: 30%;
+    float: left;
+    align-content: center;
+    padding-left: 15px;
+}
+.demo{
+    height: 200px;
+    width: 300px;
+}
+.experience-section{
+    background-image: url(img/latest-work-bg.png);
+    width: 100%;
+}
+.experience-heading{
+    text-align: center;
+}
+.contact-us-sec{
+    background-image: url(img/footer-bg.png);
+    width: 100%;
+    text-align: center;
+}
+.email{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red, red);
+    padding: 25px 40px 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    display: inline-block;
+}
+p{
+    color: dimgray;
+    padding-bottom: 30px;
+}
